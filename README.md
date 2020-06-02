@@ -1,5 +1,8 @@
-# Earth View by Google 
+1. Run `download-images.py` to download all of the Earth View images
+2. Run `randomize-wallpaper.py` to set one of the downloaded images as your wallpaper
+
 ### https://earthview.withgoogle.com
+
 Earth View is a collection of the most beautiful and striking landscapes found in Google Earth.
 
 Note: I get the whole list though this script (https://github.com/limhenry/earthview/blob/master/script/parser.py) and the list is available here or in JSON format (https://raw.githubusercontent.com/limhenry/earthview/master/earthview.json)
@@ -18,7 +21,7 @@ Note: I get the whole list though this script (https://github.com/limhenry/earth
 | Libya                             | Al Kufrah                               | www.gstatic.com/prettyearth/assets/full/1018.jpg | www.google.com/maps/@24.659177,24.968061,15z/data=!3m1!1e3    |
 | Egypt                             | Qesm Al Wahat Ad Dakhlah                | www.gstatic.com/prettyearth/assets/full/1019.jpg | www.google.com/maps/@23.604734,25.315547,15z/data=!3m1!1e3    |
 | United States                     | Porcupine                               | www.gstatic.com/prettyearth/assets/full/1021.jpg | www.google.com/maps/@43.536867,-102.360299,17z/data=!3m1!1e3  |
-| China      | Hainan                                  | www.gstatic.com/prettyearth/assets/full/1022.jpg | www.google.com/maps/@35.286769,100.291448,16z/data=!3m1!1e3   |
+| China                             | Hainan                                  | www.gstatic.com/prettyearth/assets/full/1022.jpg | www.google.com/maps/@35.286769,100.291448,16z/data=!3m1!1e3   |
 | China                             | Ngari                                   | www.gstatic.com/prettyearth/assets/full/1023.jpg | www.google.com/maps/@33.68746,79.859533,15z/data=!3m1!1e3     |
 | Libya                             | -                                       | www.gstatic.com/prettyearth/assets/full/1024.jpg | www.google.com/maps/@32.688049,22.87596,16z/data=!3m1!1e3     |
 | Chad                              | Ennedi                                  | www.gstatic.com/prettyearth/assets/full/1026.jpg | www.google.com/maps/@18.431694,21.068799,15z/data=!3m1!1e3    |
