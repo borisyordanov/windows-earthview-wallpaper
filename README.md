@@ -1,5 +1,6 @@
 1. Run `download-images.py` to download all of the Earth View images
 2. Run `randomize-wallpaper.py` to set one of the downloaded images as your wallpaper
+Optional: [Schedule the script to run periodically](https://stackoverflow.com/a/44727480/7226958) to explore more of these beautiful wallpapers
 
 ### https://earthview.withgoogle.com
 
